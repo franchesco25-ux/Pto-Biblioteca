@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\usuario\\desktop\\ptobiblioteca\\biblioteca\\views\\recursos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\recursos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\usuario\\desktop\\ptobiblioteca\\biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\usuario\\desktop\\ptobiblioteca\\biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Views\\Recursos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Recursos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Views\\Recursos\\Delete.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Recursos\\Delete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T05:12:47.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecursosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\RecursosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
+              "RelativeToolTip": "Biblioteca\\Controllers\\RecursosController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T04:52:32.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecursosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "RelativeToolTip": "Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T04:39:04.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

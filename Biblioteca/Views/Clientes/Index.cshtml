@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewData["Title"] = "Gestión de Clientes";
+}
+
+
+<div class="container">
+    <h2>Gestión de Clientes</h2>
+    <p class="text-muted">Página de administración de clientes (solo para Administradores y Bibliotecarios)</p>
+
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Lista de Clientes (Demo)</h5>
+                </div>
+                <div class="card-body">
+                    <p>Esta es una página de demostración para probar el control de acceso por roles.</p>
+
+                    <div class="alert alert-info">
+                        <strong>Roles permitidos en esta página:</strong> ADMINISTRADOR, BIBLIOTECARIO
+                    </div>
+
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Nombre</th>
+                                <th>Email</th>
+                                <th>Teléfono</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Juan Pérez</td>
+                                <td>juan@email.com</td>
+                                <td>123-456-7890</td>
+                                <td>
+                                    <a href="#" class="btn btn-sm btn-info">Ver</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>María García</td>
+                                <td>maria@email.com</td>
+                                <td>098-765-4321</td>
+                                <td>
+                                    <a href="#" class="btn btn-sm btn-info">Ver</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <a href="#" class="btn btn-primary">Crear Nuevo Cliente</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,59 @@
+﻿@using Biblioteca.Models
+@inject Biblioteca.Repositorios.IServicioSesion Sesion
+@inject Biblioteca.Repositorios.IServicioAutenticacion Auth
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Antiforgery
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Biblioteca</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Biblioteca.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" asp-controller="Home" asp-action="Index">Biblioteca</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">Inicio</a>
+                    </li>
+                    @if (Auth.UsuarioTieneAlgunRol(new[] { "ADMINISTRADOR", "BIBLIOTECARIO" }))
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Clientes" asp-action="Index">Clientes</a>
+                        </li>
+                    }
+                </ul>
+
+
+
+                <div class="d-flex">
+                    @{
+                        Sesion? s = Sesion.Obtener();
+                        if (s != null)
+                        {
+                            <form method="post" action="/Login/Salir">
+                                <input name="__RequestVerificationToken" type="hidden" value="@Antiforgery.GetAndStoreTokens(Context).RequestToken" />
+                                <span class="me-2">@s.NombreCompleto (@s.Rol)</span>
+                                <button type="submit" class="btn btn-outline-danger btn-sm">Salir</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <a class="btn btn-outline-primary btn-sm" href="/Login/Acceder">Acceder</a>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="container mt-4">
+        @RenderBody()
+    </div>
+</body>
+
+</html>
