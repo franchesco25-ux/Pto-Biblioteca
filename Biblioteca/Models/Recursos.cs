@@ -12,11 +12,15 @@ namespace Biblioteca.Models
         public string? subtitulo { get; set; }
 
         [Required(ErrorMessage = "La fecha es obligatoria")]
-        [DataType(DataType.Date)]public DateTime ano_publicacion { get; set; }
+        //[DataType(DataType.Date)]public DateTime ano_publicacion { get; set; }
 
-        public string ? edicion { get; set; }
+        public int? ano_publicacion { get; set; }
+
+        public string? edicion { get; set; }
 
         public bool eliminado { get; set; }
+
+        public string? tipo_recurso { get; set; }
 
     }
 }

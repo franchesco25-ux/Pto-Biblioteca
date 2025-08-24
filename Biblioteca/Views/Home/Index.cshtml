@@ -3,10 +3,13 @@
     ViewData["Title"] = "Inicio";
 }
 
-<h3>Bienvenido @Model.NombreCompleto</h3>
-<p>Rol: <strong>@Model.Rol</strong></p>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="text-center herosection">
+    <h1 class="display-5 fw-bold text-body-emphasis">Bienvenido @Model.NombreCompleto</h1>
+    <div class="col-lg-6 mx-auto"> 
+        <p class="lead mb-4">Rol: <strong>@Model.Rol</p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center"> 
+            <a class="btn btn-primary btn-lg px-4 gap-3" asp-controller="Recursos" asp-action="Index">Ver nuestros recursos</a>
+        </div> 
+    </div> 
 </div>

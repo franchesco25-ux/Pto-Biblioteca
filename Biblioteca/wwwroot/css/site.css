@@ -20,3 +20,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.herosection {
+    background-color: var(--bs-gray-200);
+    padding: 8rem 3rem;
+    border-radius:0.5rem;
+}

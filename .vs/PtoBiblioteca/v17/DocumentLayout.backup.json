@@ -1,18 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\",
+  "WorkspaceRootPath": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\usuario\\desktop\\ptobiblioteca\\biblioteca\\views\\recursos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\recursos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\usuario\\desktop\\ptobiblioteca\\biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\usuario\\desktop\\ptobiblioteca\\biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KEVIN\\Downloads\\Pto-Biblioteca\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\views\\recursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\recursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,45 +45,101 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Views\\Recursos\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Recursos\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Views\\Recursos\\Delete.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Recursos\\Delete.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-23T05:12:47.474Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RecursosController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\RecursosController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\RecursosController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Downloads\\Pto-Biblioteca\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Pto-Biblioteca\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
+              "ToolTip": "C:\\Users\\KEVIN\\Downloads\\Pto-Biblioteca\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Pto-Biblioteca\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T04:52:32.97Z",
+              "WhenOpened": "2025-08-24T18:34:58.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecursosController.cs",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\RecursosController.cs",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
+              "RelativeToolTip": "Biblioteca\\Controllers\\RecursosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:22:06.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Recursos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Recursos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Recursos\\Index.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Recursos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T18:21:48.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecursosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "RelativeToolTip": "Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:19:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recursos.cs",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Models\\Recursos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\Recursos.cs",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Models\\Recursos.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\Recursos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:18:07.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T18:16:09.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RecursosDAO.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PtoBiblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T04:39:04.158Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T17:30:28.354Z",
               "EditorCaption": ""
             }
           ]
