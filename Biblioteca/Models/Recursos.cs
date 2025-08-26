@@ -22,7 +22,6 @@ namespace Biblioteca.Models
 
         public string? tipo_recurso { get; set; }
 
-<<<<<<< HEAD
         [StringLength(20)]
         public string? isbn_issn { get; set; }
         
@@ -50,9 +49,5 @@ namespace Biblioteca.Models
 
        
         public string? observaciones { get; set; }
-=======
-        public string? descripcion_recurso { get; set; }
-
->>>>>>> c661a0e53e6adbee585028dee3b196f9bc91dcaa
     }
 }

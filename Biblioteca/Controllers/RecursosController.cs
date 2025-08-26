@@ -1,5 +1,4 @@
 ﻿using Biblioteca.Filtros;
-using Biblioteca.Models;
 using Biblioteca.Repositorios;
 using Microsoft.AspNetCore.Mvc;
 
@@ -48,42 +47,6 @@ namespace Biblioteca.Controllers
         }
 
         [HttpGet]
-
-        [RequiereSesion]                 
-        public IActionResult Create()
-        {
-            return View(new Recursos()); 
-        }
-
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        [RequiereSesion]
-        // [RequiereRol("ADMINISTRADOR")]  
-        public IActionResult Create(Recursos reg, string? autorNombre, string? autorApellido, string tipoAutor = "principal")
-        {
-            if (!ModelState.IsValid) return View(reg);
-
-            int id = _recursos.insertResource(reg);
-            if (id > 0)
-            {
-                if (!string.IsNullOrWhiteSpace(autorNombre))
-                {
-                    int rel = _recursos.asociarAutorARecurso(id, autorNombre, autorApellido, tipoAutor);
-                    ViewBag.mensaje = rel > 0
-                        ? $"Recurso creado (ID {id}) y autor asociado."
-                        : $"Recurso creado (ID {id}), pero no se pudo asociar el autor (verifique que exista).";
-                }
-                else
-                {
-                    ViewBag.mensaje = $"Recurso creado (ID {id}).";
-                }
-                return View(reg); 
-            }
-
-            ViewBag.mensaje = "No se pudo crear el recurso (verifica Tipo/Editorial/Género por NOMBRE).";
-            return View(reg);
-        }
-
         public IActionResult Details(int? id)
         {
             var recurso = _recursos.ListResources().FirstOrDefault(x => x.id == id);
@@ -93,6 +56,5 @@ namespace Biblioteca.Controllers
             }
             return PartialView("_recursoModal",recurso);
         }
-
     }
 }

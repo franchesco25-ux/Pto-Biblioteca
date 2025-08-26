@@ -57,47 +57,12 @@ namespace Biblioteca.Repositorios
             return usuario;
         }
 
-        public IEnumerable<Usuario> ListUsuarios()
-        {
-            List<Usuario> temporal = new List<Usuario>();
 
-            using (SqlConnection cn = new SqlConnection(_Conexion.getConexion()))
-            {
-                using (SqlCommand cmd = new SqlCommand("sp_listar_usuarios", cn))
-                {
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cn.Open();
-                    using (SqlDataReader dr = cmd.ExecuteReader())
-                    {
-                        while (dr.Read())
-                        {
-                            temporal.Add(new Usuario
-                            {
 
-                                //id = dr.IsDBNull(0) ? 0 : dr.GetInt16(0), // Si es nulo, asigna 0. Sino, lee el valor.
-                                //titulo = dr.IsDBNull(1) ? string.Empty : dr.GetString(1),
 
-                                UsuarioId = (short)(dr.IsDBNull(0) ? 0 : dr.GetInt16(0)),
-                                Rol = dr.IsDBNull(1) ? string.Empty : dr.GetString(1),
-                                Identidad = dr.IsDBNull(2) ? string.Empty : dr.GetString(2),
-                                DocumentoIdent = dr.IsDBNull(3) ? string.Empty : dr.GetString(3),
-                                Nombre = dr.IsDBNull(4) ? string.Empty : dr.GetString(4),
-                                Apellido = dr.IsDBNull(5) ? string.Empty : dr.GetString(5),
-                                UsuarioLogin = dr.IsDBNull(6) ? string.Empty : dr.GetString(6),
-                                Telefono = dr.IsDBNull(7) ? string.Empty : dr.GetString(7),
-                                Direccion = dr.IsDBNull(8) ? string.Empty : dr.GetString(8),
-                                Mail = dr.IsDBNull(9) ? string.Empty : dr.GetString(9),
-                                FechaRegistro = dr.IsDBNull(10) ? DateTime.MinValue : dr.GetDateTime(10),
-                                PasswordActiva = dr.IsDBNull(11) ? false : dr.GetBoolean(11),
 
-                            });
-                        }
-                    }
-                }
-            }
 
-            return temporal;
-        }
+
 
     }
 }

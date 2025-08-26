@@ -18,7 +18,6 @@ builder.Services.AddScoped<IRepositorioUsuario, UsuarioDAO>();
 builder.Services.AddScoped<IServicioAutenticacion, ServicioAutenticacion>();
 builder.Services.AddScoped<IServicioSesion, ServicioSesion>();
 builder.Services.AddScoped<IRecursos, RecursosDAO>();
-builder.Services.AddScoped<IRepositorioUsuario,UsuarioDAO>();
 
 var app = builder.Build();
 

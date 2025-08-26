@@ -5,7 +5,6 @@ namespace Biblioteca.Repositorios
     public interface IRepositorioUsuario
     {
         Task<Usuario?> ObtenerPorUsuarioActivoAsync(String usuarioLogin);
-        IEnumerable<Usuario> ListUsuarios();
 
     }
 }
