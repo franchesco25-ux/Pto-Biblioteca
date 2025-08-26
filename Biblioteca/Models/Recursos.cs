@@ -22,5 +22,7 @@ namespace Biblioteca.Models
 
         public string? tipo_recurso { get; set; }
 
+        public string? descripcion_recurso { get; set; }
+
     }
 }
