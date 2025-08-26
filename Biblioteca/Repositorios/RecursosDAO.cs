@@ -51,6 +51,7 @@ namespace Biblioteca.Repositorios
                                 ano_publicacion = dr.IsDBNull(3) ? 0 : dr.GetInt16(3),
                                 edicion = dr.IsDBNull(4) ? string.Empty : dr.GetString(4),
                                 tipo_recurso = dr.IsDBNull(5) ? string.Empty : dr.GetString(5),
+                                descripcion_recurso = dr.IsDBNull(6) ? string.Empty : dr.GetString(6),
                             });
                         }
                     }

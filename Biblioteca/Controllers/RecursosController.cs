@@ -48,6 +48,7 @@ namespace Biblioteca.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
         [RequiereSesion]                 
         public IActionResult Create()
         {
@@ -85,5 +86,16 @@ namespace Biblioteca.Controllers
 
 
 
+=======
+        public IActionResult Details(int? id)
+        {
+            var recurso = _recursos.ListResources().FirstOrDefault(x => x.id == id);
+            if (recurso == null)
+            {
+                return NotFound();
+            }
+            return PartialView("_recursoModal",recurso);
+        }
+>>>>>>> c661a0e53e6adbee585028dee3b196f9bc91dcaa
     }
 }
