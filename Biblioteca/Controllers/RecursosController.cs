@@ -45,5 +45,16 @@ namespace Biblioteca.Controllers
             ViewData["Mensaje"] = m ?? "Acceso denegado";
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Details(int? id)
+        {
+            var recurso = _recursos.ListResources().FirstOrDefault(x => x.id == id);
+            if (recurso == null)
+            {
+                return NotFound();
+            }
+            return PartialView("_recursoModal",recurso);
+        }
     }
 }
