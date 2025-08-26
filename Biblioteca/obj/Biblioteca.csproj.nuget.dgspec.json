@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\KEVIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\KEVIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
