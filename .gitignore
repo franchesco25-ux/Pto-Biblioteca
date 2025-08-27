@@ -8,7 +8,7 @@
 *.user
 *.userosscache
 *.sln.docstates
- 
+
 # Archivos de compilación
 bin/
 obj/
@@ -23,6 +23,8 @@ Release/
 *.cache
 *.tmp
 
-# Configuración IDE opcional
-.idea/
-.vscode/
+
+# Configuración sensible por entorno
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Local.json
