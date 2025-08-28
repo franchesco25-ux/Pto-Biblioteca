@@ -19,6 +19,12 @@ namespace Biblioteca.Controllers
         {
             return View(_UsuarioDAO.ListUsuarios());
         }
+
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            return PartialView("_clienteDetail",_UsuarioDAO.ListUsuarios().FirstOrDefault(x => x.UsuarioId == id));
+        }
     }
 }
 
