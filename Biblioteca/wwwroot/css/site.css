@@ -35,7 +35,6 @@ body {
     /* Asegura que no se encoja si el texto es largo */
     flex-shrink: 0;
 }
-
-body {
-    background-color: #f8f9fa; /* Un fondo suave para resaltar las tarjetas */
+.card-cliente{
+    border:1px solid #eeeeee;
 }

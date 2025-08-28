@@ -15,7 +15,7 @@
             @foreach (var item in Model)
             {
                 <div class="col-lg-4 col-md-6">
-                    <div class="card h-100 shadow-sm border-0">
+                    <div class="card h-100 shadow-sm border-1">
                         <div class="card-body">
                             <div class="d-flex align-items-center">
                                 <div class="avatar-placeholder d-flex align-items-center justify-content-center">
@@ -26,9 +26,7 @@
                                     <h5 class="fw-bold mb-0">@Html.DisplayFor(modelItem => item.Nombre) @Html.DisplayFor(modelItem => item.Apellido)</h5>
                                     <p class="text-muted small mb-2">Usuario: @Html.DisplayFor(modelItem => item.UsuarioLogin)</p>
                                     <div>
-                                        <a href="#" data-id="@item.UsuarioId" class="text-decoration-none text-secondary small me-3 btn-see-recurso">Ver</a>
-                                        <a asp-action="Edit" asp-route-id="@item.UsuarioId" class="text-primary text-decoration-none small me-3">Editar</a>
-                                        <a asp-action="Edit" asp-route-id="@item.UsuarioId" class="text-danger text-decoration-none small">Eliminar</a>
+                                        <a href="#" data-id="@item.UsuarioId" class="text-decoration-none text-primary small me-3 btn-see-recurso">Ver detalle</a>
                                     </div>
                                 </div>
                             </div>
