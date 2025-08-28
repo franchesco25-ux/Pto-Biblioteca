@@ -49,5 +49,7 @@ namespace Biblioteca.Models
 
        
         public string? observaciones { get; set; }
+
+        public string? descripcion_recurso { get; set; }
     }
 }
