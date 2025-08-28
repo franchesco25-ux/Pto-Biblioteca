@@ -109,5 +109,18 @@ namespace Biblioteca.Repositorios
             return (int)(ret.Value ?? 0); // >0 = relación creada; 0 = error
         }
 
+        public void generarMulta()
+        {
+            using(SqlConnection cn = new SqlConnection(_conecta.getConexion()))
+            {
+                using(SqlCommand cmd = new SqlCommand("sp_generar_multas_retraso", cn))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cn.Open();
+                    cmd.ExecuteNonQuery();
+                }
+            }
+        }
+
     }
 }
