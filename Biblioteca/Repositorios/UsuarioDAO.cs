@@ -57,6 +57,8 @@ namespace Biblioteca.Repositorios
             return usuario;
         }
 
+
+
         public IEnumerable<Usuario> ListUsuarios()
         {
             List<Usuario> temporal = new List<Usuario>();
@@ -98,6 +100,9 @@ namespace Biblioteca.Repositorios
 
             return temporal;
         }
+
+
+
 
     }
 }

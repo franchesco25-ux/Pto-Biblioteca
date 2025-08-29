@@ -1,0 +1,18 @@
+﻿@model Biblioteca.Models.Usuario
+
+<div class="modal-header">
+    <h3 class="modal-title" id="infoModalLabel">Recurso</h3>
+    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body">
+    <p class="h1 text-black">@Model.Nombre @Model.Apellido</p>
+    <p class="h5">@Model.Rol</p>
+    <p><strong>Usuario:</strong> @Model.UsuarioLogin</p>
+    <ul class="list-unstyled mt-3 mb-4">
+        <li><strong>Teléfono:</strong> @Model.Telefono</li>
+        <li><strong>Dirección:</strong> @Model.Direccion</li>
+    </ul>
+</div>
+<div class="modal-footer">
+    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+</div>

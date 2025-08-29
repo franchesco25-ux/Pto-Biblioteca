@@ -2,5 +2,29 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
-/PtoBiblioteca.sln
+# Visual Studio
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.db
+*.cache
+*.tmp
+
+
+# Configuración sensible por entorno
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Local.json

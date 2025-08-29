@@ -26,3 +26,15 @@ body {
     padding: 8rem 3rem;
     border-radius:0.5rem;
 }
+
+.avatar-placeholder {
+    width: 5rem;
+    height: 5rem;
+    background-color: #e0e0e0;
+    border-radius: 50%;
+    /* Asegura que no se encoja si el texto es largo */
+    flex-shrink: 0;
+}
+.card-cliente{
+    border:1px solid #eeeeee;
+}

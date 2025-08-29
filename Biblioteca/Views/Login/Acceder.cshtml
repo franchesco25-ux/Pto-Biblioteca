@@ -14,31 +14,38 @@
     };
 }
 
-<div class="row justify-content-center">
-    <div class="col-md-4">
-        <h3>Acceder</h3>
 
-        @if (!string.IsNullOrEmpty(mensaje))
-        {
-            <div class="alert alert-warning">@((mapa.ContainsKey(mensaje)) ? mapa[mensaje] : mensaje)</div>
-        }
 
-        <form method="post" asp-action="Acceder" asp-controller="Login">
-            @Html.AntiForgeryToken()
 
-            <div class="mb-3">
-                <label class="form-label">Usuario</label>
-                <input asp-for="UsuarioLogin" class="form-control" maxlength="20" />
-                <span asp-validation-for="UsuarioLogin" class="text-danger"></span>
+<section style="background-color: #508bfc;">
+    <div class="container py-5" style="height:91vh">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                <div class="card shadow-2-strong" style="border-radius: 1rem;">
+                    <form method="post" asp-action="Acceder" asp-controller="Login" class="card-body p-5 text-center">
+                        @Html.AntiForgeryToken()
+                        <h1 class="mb-1">Biblioteca</h1>
+                        <p class="mb-3">Iniciar Sesión</p>
+                        @if (!string.IsNullOrEmpty(mensaje))
+                        {
+                            <div class="alert alert-warning">@((mapa.ContainsKey(mensaje)) ? mapa[mensaje] : mensaje)</div>
+                        }
+                        <hr />
+                        <div data-mdb-input-init class="form-outline mb-4">
+                            <input asp-for="UsuarioLogin" type="text" id="typeEmailX-2" class="form-control form-control-lg" />
+                            <label class="form-label" for="typeEmailX-2">Usuario</label>
+                        </div>
+
+                        <div data-mdb-input-init class="form-outline mb-4">
+                            <input asp-for="Password" type="password" id="typePasswordX-2" class="form-control form-control-lg" />
+                            <label class="form-label" for="typePasswordX-2">Contraseña</label>
+                        </div>
+
+                        <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg btn-block" type="submit">Iniciar Sesión</button>
+
+                    </form>
+                </div>
             </div>
-
-            <div class="mb-3">
-                <label class="form-label">Contraseña</label>
-                <input asp-for="Password" type="password" class="form-control" />
-                <span asp-validation-for="Password" class="text-danger"></span>
-            </div>
-
-            <button class="btn btn-primary w-100" type="submit">Ingresar</button>
-        </form>
+        </div>
     </div>
-</div>
+</section>

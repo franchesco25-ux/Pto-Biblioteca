@@ -13,7 +13,7 @@ $(document).ready(function () {
         var productoId = $(this).data('id');
 
         // 3. Definir la URL a la que haremos la petición Ajax
-        
+
 
         // Opcional: Mostrar un indicador de carga mientras se obtienen los datos
         $('#infoModalContent').html('<div class="text-center p-5"><div class="spinner-border text-primary" role="status"><span class="visually-hidden">Cargando...</span></div></div>');

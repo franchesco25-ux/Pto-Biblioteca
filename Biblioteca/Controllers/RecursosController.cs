@@ -8,7 +8,7 @@ namespace Biblioteca.Controllers
     public class RecursosController : Controller
     {
 
-        IRecursos _recursos;
+        readonly IRecursos _recursos;
         private readonly IServicioSesion _servicioSesion;
 
         public RecursosController(IRecursos recursos, IServicioSesion servicioSesion)
@@ -49,12 +49,14 @@ namespace Biblioteca.Controllers
         [HttpGet]
         public IActionResult Details(int? id)
         {
-            var recurso = _recursos.ListResources().FirstOrDefault(x => x.id == id);
-            if (recurso == null)
-            {
-                return NotFound();
-            }
-            return PartialView("_recursoModal",recurso);
+            return PartialView("_recursoModal", _recursos.ListResources().FirstOrDefault(x => x.id == id));
+        }
+        [HttpPost]
+        public IActionResult generarMulta()
+        {
+            _recursos.generarMulta();
+            TempData["mensaje"] = "Multa generada exitosamente";
+            return RedirectToAction("index");
         }
     }
 }
