@@ -13,7 +13,7 @@
 
         public string getConexion()
         {
-            return _iconfig.GetConnectionString("cadena");
+            return _iconfig.GetConnectionString("cadena2");
         }
     }
 
