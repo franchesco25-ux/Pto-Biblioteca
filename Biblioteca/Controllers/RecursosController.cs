@@ -51,5 +51,12 @@ namespace Biblioteca.Controllers
         {
             return PartialView("_recursoModal", _recursos.ListResources().FirstOrDefault(x => x.id == id));
         }
+        [HttpPost]
+        public IActionResult generarMulta()
+        {
+            _recursos.generarMulta();
+            TempData["mensaje"] = "Multa generada exitosamente";
+            return RedirectToAction("index");
+        }
     }
 }
