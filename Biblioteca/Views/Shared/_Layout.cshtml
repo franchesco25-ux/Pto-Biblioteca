@@ -15,6 +15,10 @@
 </head>
 <body>
 
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
 
 
     @{
@@ -42,10 +46,10 @@
                     </li>
                 </ul>
                 <div class="col-md-3 text-end">
-                    <form method="post" action="/Login/Salir">
+                    <form method="post" id="logoutform" action="/Login/Salir">
                         <input name="__RequestVerificationToken" type="hidden" value="@Antiforgery.GetAndStoreTokens(Context).RequestToken" />
 
-                        <button type="submit" class="btn btn-outline-primary">Cerrar sesión</button>
+                        <button type="submit" id="btnlogout" class="btn btn-outline-primary">Cerrar sesión</button>
                     </form>
                 </div>
             </header>
@@ -57,9 +61,10 @@
     </div>
 
 
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+    
+
+    
+
 </body>
 
 </html>

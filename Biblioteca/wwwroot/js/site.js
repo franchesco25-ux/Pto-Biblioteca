@@ -1,7 +1,5 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿//import Swal from 'sweetalert2';
 
-// Write your JavaScript code.
 
 $(document).ready(function () {
     // 1. Escuchar el evento 'click' en cualquier elemento con la clase 'ver-informacion-btn'
@@ -44,4 +42,50 @@ $(document).ready(function () {
             }
         });
     });
+
+    $('#logoutform').on('submit', function (e) {
+        e.preventDefault(); // Previene la acción por defecto del enlace (si es un <a>)
+        Swal.fire({
+            title: '¿Estás seguro que deseas cerrar sesión?',
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Sí, salir',
+            cancelButtonText: 'Cancelar'
+        }).then((result) => {
+            // Si el usuario confirma
+            if (result.isConfirmed) {
+                // Envía el formulario de forma manual
+                e.target.submit();
+            }
+        });
+    });
+
+    $('.btndeleterecurso').on('click', function (e) {
+        e.preventDefault(); // Previene la acción por defecto del enlace (si es un <a>)
+        Swal.fire({
+            title: '¿Estás seguro que deseas eliminar?',
+            icon: 'danger',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Sí, eliminar recurso',
+            cancelButtonText: 'Cancelar'
+        }).then((result) => {
+            // Si el usuario hace clic en "Sí, continuar"
+            if (result.isConfirmed) {
+                // Obtiene los datos del enlace
+                const urlBase = $(this).data('url');
+                const id = $(this).data('id');
+
+                // Construye la URL final
+                const urlFinal = `${urlBase}/${id}`;
+
+                // Navega a la nueva URL
+                window.location.href = urlFinal;
+            }
+        });
+    });
 });
+
