@@ -1,0 +1,35 @@
+﻿@model Biblioteca.Models.Usuario
+@{
+    ViewData["Title"] = "Detalles del usuario";
+}
+
+<h2>Detalles del usuario</h2>
+<hr />
+
+<dl class="row">
+    <dt class="col-sm-2">ID</dt>
+    <dd class="col-sm-10">@Model.UsuarioId</dd>
+    <dt class="col-sm-2">Usuario</dt>
+    <dd class="col-sm-10">@Model.UsuarioLogin</dd>
+    <dt class="col-sm-2">Nombre</dt>
+    <dd class="col-sm-10">@Model.Nombre</dd>
+    <dt class="col-sm-2">Apellido</dt>
+    <dd class="col-sm-10">@Model.Apellido</dd>
+    <dt class="col-sm-2">Rol</dt>
+    <dd class="col-sm-10">@Model.Rol</dd>
+    <dt class="col-sm-2">Correo</dt>
+    <dd class="col-sm-10">@Model.Mail</dd>
+    <dt class="col-sm-2">Teléfono</dt>
+    <dd class="col-sm-10">@Model.Telefono</dd>
+    <dt class="col-sm-2">Dirección</dt>
+    <dd class="col-sm-10">@Model.Direccion</dd>
+    <dt class="col-sm-2">Registrado</dt>
+    <dd class="col-sm-10">@Model.FechaRegistro.ToString("yyyy-MM-dd HH:mm")</dd>
+    <dt class="col-sm-2">Estado</dt>
+    <dd class="col-sm-10">@((Model.CuentaBloqueada ? "Bloqueado" : "Activo"))</dd>
+</dl>
+
+<div class="mt-3">
+    <a asp-action="Edit" asp-route-id="@Model.UsuarioId" class="btn btn-warning">Editar</a>
+    <a asp-action="IndexUsuario" class="btn btn-secondary">Volver</a>
+</div>

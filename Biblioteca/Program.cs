@@ -1,3 +1,4 @@
+using Biblioteca.Models;
 using Biblioteca.Repositorios;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +16,7 @@ builder.Services.AddSession(opciones =>
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped<IConexion, ConexionDAO>();
 builder.Services.AddScoped<IRepositorioUsuario, UsuarioDAO>();
+builder.Services.AddScoped<IUsuarioRepository<Usuario>, UsuarioDAO>(); 
 builder.Services.AddScoped<IServicioAutenticacion, ServicioAutenticacion>();
 builder.Services.AddScoped<IServicioSesion, ServicioSesion>();
 builder.Services.AddScoped<IRecursos, RecursosDAO>();
