@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -147,6 +147,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -176,24 +180,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Program.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
               "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Program.cs",
               "RelativeToolTip": "Biblioteca\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T04:30:32.688Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Create.cshtml",
               "RelativeDocumentMoniker": "Biblioteca\\Views\\Usuario\\Create.cshtml",
@@ -206,26 +206,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\appsettings.json",
               "RelativeDocumentMoniker": "Biblioteca\\appsettings.json",
               "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\appsettings.json",
               "RelativeToolTip": "Biblioteca\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-26T03:43:26.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Delete.cshtml",
               "RelativeDocumentMoniker": "Biblioteca\\Views\\Usuario\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Delete.cshtml",
               "RelativeToolTip": "Biblioteca\\Views\\Usuario\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-31T16:42:38.089Z",
               "EditorCaption": ""

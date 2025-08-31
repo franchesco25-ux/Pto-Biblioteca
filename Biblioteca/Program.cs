@@ -20,6 +20,7 @@ builder.Services.AddScoped<IUsuarioRepository<Usuario>, UsuarioDAO>();
 builder.Services.AddScoped<IServicioAutenticacion, ServicioAutenticacion>();
 builder.Services.AddScoped<IServicioSesion, ServicioSesion>();
 builder.Services.AddScoped<IRecursos, RecursosDAO>();
+builder.Services.AddScoped<IReservas, ReservaDAO>();
 
 var app = builder.Build();
 
