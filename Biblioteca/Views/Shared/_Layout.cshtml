@@ -15,10 +15,7 @@
 </head>
 <body>
 
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+    
 
 
     @{
@@ -44,6 +41,9 @@
                     <li>
                         <a class="nav-link" asp-controller="Recursos" asp-action="Index">Catálogo de Recursos</a>
                     </li>
+                    <li>
+                        <a class="nav-link" asp-controller="Reservas" asp-action="Index">Reservas</a>
+                    </li>
                 </ul>
                 <div class="col-md-3 text-end">
                     <form method="post" id="logoutform" action="/Login/Salir">
@@ -62,7 +62,10 @@
 
 
     
-
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
     
 
 </body>

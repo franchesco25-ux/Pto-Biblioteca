@@ -14,6 +14,10 @@ namespace Biblioteca.Models
         [Required(ErrorMessage = "La fecha es obligatoria")]
         //[DataType(DataType.Date)]public DateTime ano_publicacion { get; set; }
 
+        public int? tiporecursoid { get; set; }
+        public int? editorialid { get; set; }
+        public int? generoid { get; set; }
+
         public int? ano_publicacion { get; set; }
 
         public string? edicion { get; set; }
