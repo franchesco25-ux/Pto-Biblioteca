@@ -1,294 +1,41 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\",
-  "Documents": [
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\repositorios\\irecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\irecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\views\\shared\\_recursomodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\shared\\_recursomodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\repositorios\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\repositorios\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\repositorios\\conexiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\conexiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\pto-biblioteca\\biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-=======
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\usuario\\indexusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\usuario\\indexusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\conexiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\conexiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\iservicioautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\iservicioautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\serviciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\serviciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\servicioautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\servicioautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\iserviciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\iserviciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\irecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\irecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\shared\\_recursomodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\shared\\_recursomodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\jesus\\cibertec\\ciclo v\\desarrollo de servicios web i\\proyecto\\pto-biblioteca\\biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-=======
   "WorkspaceRootPath": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\",
   "Documents": [
     {
-<<<<<<< HEAD
-=======
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\reservadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\reservadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\responsejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\responsejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\conexiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\conexiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
->>>>>>> origin/master
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\reservadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\reservadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\views\\reservas\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\reservas\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\views\\recursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\recursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\recursosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
       "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\irecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\irecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> origin/master
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\ireservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\ireservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|c:\\users\\kevin\\desktop\\proyectos-net\\proyecto\\pto-biblioteca\\biblioteca\\repositorios\\irecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046000F4-118F-4B63-B766-654686452FBD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorios\\irecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
->>>>>>> de83d9fb87bcec52bea8aa4b4fbe68d49c462c26
->>>>>>> cadbe9392efefaf546c0c07353370c2773763293
->>>>>>> origin/master
     }
   ],
   "DocumentGroupContainers": [
@@ -298,879 +45,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 6,
-=======
-<<<<<<< HEAD
-          "SelectedChildIndex": 12,
-=======
-<<<<<<< HEAD
-          "SelectedChildIndex": 8,
-=======
-          "SelectedChildIndex": 10,
->>>>>>> de83d9fb87bcec52bea8aa4b4fbe68d49c462c26
->>>>>>> cadbe9392efefaf546c0c07353370c2773763293
->>>>>>> origin/master
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 2,
-=======
-<<<<<<< HEAD
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T18:50:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsuarioDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\UsuarioDAO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\UsuarioDAO.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\UsuarioDAO.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\UsuarioDAO.cs",
-              "ViewState": "AgIAAPEAAAAAAAAAAAAQwPoAAAAMAAAAAAAAAA==",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Biblioteca\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T04:12:27.464Z",
-=======
+              "WhenOpened": "2025-08-31T18:50:27.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T18:49:19.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAC0CAAAAAAAAAAAcwD8CAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-31T18:48:58.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecursosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "RelativeToolTip": "Biblioteca\\Repositorios\\RecursosDAO.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:48:37.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseJSON.cs",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ResponseJSON.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\ResponseJSON.cs",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ResponseJSON.cs",
+              "RelativeToolTip": "Biblioteca\\Repositorios\\ResponseJSON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:48:25.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Program.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
               "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Program.cs",
               "RelativeToolTip": "Biblioteca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T10:25:49.582Z",
->>>>>>> de83d9fb87bcec52bea8aa4b4fbe68d49c462c26
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-<<<<<<< HEAD
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAuwDgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:25:09.422Z",
-=======
->>>>>>> origin/master
-              "Title": "Recursos.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Models\\Recursos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\Recursos.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Models\\Recursos.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\Recursos.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-08-31T18:11:22.291Z",
-=======
-              "WhenOpened": "2025-08-31T10:24:20.423Z",
->>>>>>> de83d9fb87bcec52bea8aa4b4fbe68d49c462c26
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Program.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Program.cs",
-              "RelativeToolTip": "Biblioteca\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T04:30:32.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T05:22:04.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T08:38:19.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IRepositorioUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRepositorioUsuario.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IRepositorioUsuario.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRepositorioUsuario.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IRepositorioUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T05:06:06.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T04:12:58.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsuarioDAO.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\UsuarioDAO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\UsuarioDAO.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\UsuarioDAO.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\UsuarioDAO.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowDsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T04:12:27.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-26T05:25:49.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_recursoModal.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_recursoModal.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Shared\\_recursoModal.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_recursoModal.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Shared\\_recursoModal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T05:39:26.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Recursos.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Models\\Recursos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\Recursos.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Models\\Recursos.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\Recursos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T18:18:07.589Z",
+              "WhenOpened": "2025-08-31T18:45:30.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-<<<<<<< HEAD
-              "Title": "IRecursos.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRecursos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IRecursos.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRecursos.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IRecursos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T04:13:28.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RecursosDAO.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T18:19:29.082Z",
->>>>>>> origin/master
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Recursos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Recursos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Recursos\\Index.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Recursos\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
-              "DocumentIndex": 10,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Biblioteca\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Biblioteca\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwC4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-25T06:21:37.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\appsettings.json",
               "RelativeDocumentMoniker": "Biblioteca\\appsettings.json",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\appsettings.json",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\appsettings.json",
               "RelativeToolTip": "Biblioteca\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-26T03:43:26.554Z",
+              "WhenOpened": "2025-08-31T18:44:30.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "ConexionDAO.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ConexionDAO.cs",
+              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ConexionDAO.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\ConexionDAO.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ConexionDAO.cs",
+              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ConexionDAO.cs",
               "RelativeToolTip": "Biblioteca\\Repositorios\\ConexionDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:28:02.645Z",
-=======
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Create.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Usuario\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Create.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Usuario\\Create.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T16:40:14.439Z",
-=======
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACwAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T10:21:00.527Z",
->>>>>>> de83d9fb87bcec52bea8aa4b4fbe68d49c462c26
->>>>>>> cadbe9392efefaf546c0c07353370c2773763293
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
-=======
-              "DocumentIndex": 2,
-<<<<<<< HEAD
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\appsettings.json",
-              "RelativeDocumentMoniker": "Biblioteca\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\appsettings.json",
-              "RelativeToolTip": "Biblioteca\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-26T03:43:26.554Z",
-=======
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Reservas\\Index.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Reservas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Reservas\\Index.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Reservas\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAfAAAAAAAAAA==",
->>>>>>> origin/master
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T17:58:31.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RecursosController.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\RecursosController.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\RecursosController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwEsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-08-31T17:56:07.754Z",
-=======
-              "WhenOpened": "2025-08-31T10:16:09.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReservasController.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Controllers\\ReservasController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\ReservasController.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Controllers\\ReservasController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\ReservasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T10:16:04.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RecursosDAO.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDIAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T10:09:28.522Z",
->>>>>>> origin/master
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Models\\Reserva.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\Reserva.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Models\\Reserva.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:54:22.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RecursosDAO.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAA4wIYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:36:40.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IRecursos.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRecursos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IRecursos.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRecursos.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IRecursos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:15:53.294Z",
+              "WhenOpened": "2025-08-31T18:44:23.695Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReservaDAO.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ReservaDAO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\ReservaDAO.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ReservaDAO.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\ReservaDAO.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAHQAAAAAAAAAAAAmwHwAAABkAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAA5AAAAAAAAAA==",
->>>>>>> origin/master
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T16:52:45.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IReservas.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IReservas.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IReservas.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IReservas.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IReservas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T16:52:12.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Registrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Reservas\\Registrar.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Reservas\\Registrar.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Reservas\\Registrar.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Reservas\\Registrar.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T16:46:41.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Reservas\\Index.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Reservas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Views\\Reservas\\Index.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Reservas\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T11:29:07.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-              "Title": "ReservasController.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Controllers\\ReservasController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\ReservasController.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Controllers\\ReservasController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\ReservasController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA8wCIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T11:26:39.809Z",
-=======
-              "DocumentIndex": 7,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Models\\Reserva.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\Reserva.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Models\\Reserva.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T10:07:36.489Z",
->>>>>>> de83d9fb87bcec52bea8aa4b4fbe68d49c462c26
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Usuario\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Delete.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Usuario\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T16:42:38.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Sesion.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Models\\Sesion.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\Sesion.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Models\\Sesion.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\Sesion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T16:30:55.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Models\\Usuario.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA3wA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T04:07:54.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IndexUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\IndexUsuario.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Usuario\\IndexUsuario.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\IndexUsuario.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Usuario\\IndexUsuario.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T16:39:38.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Usuario\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Edit.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Usuario\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T16:40:52.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Details.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Usuario\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Usuario\\Details.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Usuario\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T16:48:03.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IServicioAutenticacion.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IServicioAutenticacion.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IServicioAutenticacion.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IServicioAutenticacion.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IServicioAutenticacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:30:15.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ConexionDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ConexionDAO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\ConexionDAO.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ConexionDAO.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\ConexionDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
-=======
-              "DocumentIndex": 9,
-              "Title": "IRecursos.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRecursos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IRecursos.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\proyecto\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRecursos.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IRecursos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
->>>>>>> de83d9fb87bcec52bea8aa4b4fbe68d49c462c26
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T09:57:48.524Z",
->>>>>>> origin/master
-              "EditorCaption": ""
-<<<<<<< HEAD
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IUsuarioRepository.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:36:28.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IRepositorioUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRepositorioUsuario.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IRepositorioUsuario.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRepositorioUsuario.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IRepositorioUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T05:06:06.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:25:31.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RecursosDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\RecursosDAO.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAIwCwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T18:19:29.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T04:12:58.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RecursosController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\RecursosController.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\RecursosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T05:05:37.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:25:27.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
->>>>>>> cadbe9392efefaf546c0c07353370c2773763293
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T04:09:12.844Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Program.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Program.cs",
-              "RelativeToolTip": "Biblioteca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T04:30:32.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RecursosController.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\RecursosController.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Controllers\\RecursosController.cs",
-              "RelativeToolTip": "Biblioteca\\Controllers\\RecursosController.cs",
-=======
-              "DocumentIndex": 21,
-              "Title": "IConexion.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IConexion.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IConexion.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IConexion.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:30:18.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ServicioSesion.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ServicioSesion.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\ServicioSesion.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ServicioSesion.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\ServicioSesion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:30:24.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ServicioAutenticacion.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ServicioAutenticacion.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\ServicioAutenticacion.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\ServicioAutenticacion.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\ServicioAutenticacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:30:22.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IServicioSesion.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IServicioSesion.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IServicioSesion.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IServicioSesion.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IServicioSesion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:30:16.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IRecursos.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRecursos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Repositorios\\IRecursos.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Repositorios\\IRecursos.cs",
-              "RelativeToolTip": "Biblioteca\\Repositorios\\IRecursos.cs",
->>>>>>> cadbe9392efefaf546c0c07353370c2773763293
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T05:05:37.818Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 14,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\KEVIN\\Desktop\\proyectos-net\\Pto-Biblioteca\\Biblioteca\\Models\\Usuario.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T04:07:54.914Z"
-=======
-              "DocumentIndex": 26,
-              "Title": "Recursos.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Models\\Recursos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Models\\Recursos.cs",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Models\\Recursos.cs",
-              "RelativeToolTip": "Biblioteca\\Models\\Recursos.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T18:18:07.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-26T05:25:49.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T05:22:04.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_recursoModal.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_recursoModal.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Shared\\_recursoModal.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Shared\\_recursoModal.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Shared\\_recursoModal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T05:39:26.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Biblioteca\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Biblioteca\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwC4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-25T06:21:37.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Biblioteca\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jesus\\Cibertec\\CICLO V\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\Pto-Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Biblioteca\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-26T04:21:31.536Z"
-=======
->>>>>>> de83d9fb87bcec52bea8aa4b4fbe68d49c462c26
->>>>>>> cadbe9392efefaf546c0c07353370c2773763293
             }
           ]
         }
