@@ -1,0 +1,49 @@
+﻿@model Biblioteca.Models.Reserva
+@inject Biblioteca.Repositorios.IServicioSesion Sesion
+@inject Biblioteca.Repositorios.IServicioAutenticacion Auth
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Antiforgery
+@{
+    ViewData["Title"] = "Registrar";
+    var recursos = ViewBag.Recursos;
+}
+
+<div class="card">
+    <div class="card-header bg-light d-flex justify-content-between align-items-center">
+        <h4 class="my-2">Reservas - Registrar</h4>
+
+    </div>
+    <div class="card-body">
+        
+        <form asp-action="Registrar">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+            <input type="hidden" asp-for="CreadoPor" value="@Sesion.Obtener().UsuarioId" />
+            <input type="hidden" asp-for="estado" value="activa" />
+            <div class="row my-2">
+                <div class="col-xs-6 col-sm-6 col-md-4">
+                    <label asp-for="RecursoId" class="control-label">Recurso</label>
+                    <select asp-for="RecursoId" asp-items="ViewBag.Recursos" class="form-select">
+                        <option value="">-- Seleccione un recurso --</option>
+                    </select>
+                </div>
+                <div class="col-xs-6 col-sm-6 col-md-4">
+                    <label asp-for="UsuarioId" class="control-label">Cliente</label>
+                    <select asp-for="UsuarioId" asp-items="ViewBag.Clientes" class="form-select">
+                        <option value="">-- Seleccione un cliente --</option>
+                    </select>
+                </div>
+                <div class="col-xs-6 col-sm-6 col-md-4">
+                    <label asp-for="fechaExpiracion" class="control-label">Fecha de reserva</label>
+                    <input asp-for="fechaExpiracion" type="date" class="form-control" />
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col">
+                    <button type="submit" class="btn btn-primary">Registrar reserva</button>
+                    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                </div>
+            </div>
+        </form>
+
+    </div>
+</div>

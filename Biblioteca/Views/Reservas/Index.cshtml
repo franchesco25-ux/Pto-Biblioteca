@@ -1,74 +1,59 @@
 ﻿@model IEnumerable<Biblioteca.Models.Reserva>
-
+@inject Biblioteca.Repositorios.IServicioSesion Sesion
+@inject Biblioteca.Repositorios.IServicioAutenticacion Auth
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Antiforgery
 @{
     ViewData["Title"] = "Index";
+    var numeroI = 0;
 }
 
-<h1>Index</h1>
+<div class="card">
+    <div class="card-header bg-light d-flex justify-content-between align-items-center">
+        <h4 class="my-2">Reservas</h4>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.id)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.recurso_titulo)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.usuario_nombre)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.fechaReserva)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.fechaExpiracion)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.estado)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @if (Model != null && Model.Any())
-        {
-            @foreach (var item in Model) {
-                    <tr>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.id)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.recurso_titulo)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.usuario_nombre)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.fechaReserva)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.fechaExpiracion)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.estado)
-                        </td>
-                        <td>
-                            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-                        </td>
-                    </tr>
-            }
-        }
-        else
-        {
-            <tr>
-                <td colspan="11">No hay registros</td>
-            </tr>
-        }
-    </tbody>
-</table>
+        <a asp-action="registrar" class="btn btn-primary"><i class="bi bi-plus-circle"></i> Nueva reserva</a>
+
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col">
+                <div class="table-responsive">
+                    <table class="table-striped table">
+                        <thead>
+                            <tr>
+                                <th width="5%">#</th>
+                                <th width="20%">Recurso</th>
+                                <th width="20%">Cliente</th>
+                                <th width="20%">Fecha de solicitud</th>
+                                <th width="17.5%">Estado</th>
+                                <th width="17.5%">Acción</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null && Model.Any())
+                            {
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@(++numeroI)</td>
+                                        <td>@item.recurso_titulo</td>
+                                        <td>@item.usuario_nombre</td>
+                                        <td>@item.fechaReserva.ToShortDateString() al @item.fechaExpiracion</td>
+                                        <td>@item.estado</td>
+                                        <td>
+                                            <a href="#" class="btn-outline-secondary btn btn-sm">Ver</a>
+                                            <a href="#" class="btn-outline-warning btn btn-sm">Editar</a>
+                                            <a href="#" class="btn-outline-danger btn btn-sm">Eliminar</a>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
